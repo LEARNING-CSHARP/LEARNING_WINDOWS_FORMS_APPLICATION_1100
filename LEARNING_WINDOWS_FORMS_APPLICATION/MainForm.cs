@@ -10,10 +10,5 @@
 		private void MainForm_Load(object sender, System.EventArgs e)
 		{
 		}
-
-		private void submitButton_Click(object sender, System.EventArgs e)
-		{
-
-		}
 	}
 }

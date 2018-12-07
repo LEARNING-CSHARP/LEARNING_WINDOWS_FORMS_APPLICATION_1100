@@ -40,7 +40,6 @@
 			this.submitButton.TabIndex = 3;
 			this.submitButton.Text = "...";
 			this.submitButton.UseVisualStyleBackColor = true;
-			this.submitButton.Click += new System.EventHandler(this.submitButton_Click);
 			// 
 			// countryTextBox
 			// 
